@@ -1,10 +1,10 @@
-from graphics import *
+from Graphics import *
 from time import sleep
 from math import *
 
 width,height = 800,800
 w,h = width,height
-win = GraphWin('TicTacToe',width,height)
+win = GraphWin('PixelArt',width,height)
 size = height//20
 menuSize = size-1
 print(size)
