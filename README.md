@@ -7,5 +7,5 @@ A simple "pixel art" drawing application built with the Zelle Python graphics pa
 <br>
 <br>
 <br>
-<code>cd /PythonPixelArt/src</code><br>
-<code>python Main.py</code>
+<code>$ cd /PythonPixelArt/src</code><br>
+<code>$ python Main.py</code>
