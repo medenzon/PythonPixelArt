@@ -4,7 +4,7 @@ A simple "pixel art" drawing application built with the Zelle Python graphics pa
 <br>
 <br>
 <h4>Build & Run Instructions</h4>
-  In your terminal, using <a href="https://www.python.org/downloads/release/python-350/">Python 3.5</a>, type<br>the following commands:
+  In your terminal, using <a href="https://www.python.org/downloads/release/python-350/">Python 3.5</a>, type the<br>following commands:
 <br>
 <br>
 <code>cd /PythonPixelArt/src</code><br>
